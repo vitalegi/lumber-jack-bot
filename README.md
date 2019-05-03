@@ -19,7 +19,8 @@ mvn clean package
 ## Esecuzione
 
 ```cmd
-java -jar target\lumber-jack-player-0.0.1-SNAPSHOT.jar --fps=9.7 --napIfChange=50 --logImgs=false
+java -jar target\lumber-jack-bot-0.0.1-SNAPSHOT.jar --fps=9.7 --napIfChange=50 --logImgs=false
 ```
 
+java -jar target\lumber-jack-bot-0.0.1-SNAPSHOT.jar --fps=10.3 --napIfChange=60 --logImgs=false
 best: --fps=10.3 --napIfChange=60
